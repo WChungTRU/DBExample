@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Database Example</string>
+
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="email">Email</string>
+    <string name="add">Add Entry</string>
+    <string name="query">Query Email</string>
+
+    <string-array name="items">
+        <item>Sample1</item>
+        <item>Sample2</item>
+        <item>Sample3</item>
+    </string-array>
+    </resources>
